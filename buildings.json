@@ -82,7 +82,7 @@
     "building": "ANIMAL SCIENCES LAB",
     "time": {
       "mf": "7AM-9PM (6PM F)",
-      "sat": "7AM-12P",
+      "sat": "7AM-12PM",
       "sun": "LOCKED"
     },
     "extra": [
@@ -90,7 +90,7 @@
         "info": "LOADING DOCK DOOR",
         "time": {
           "mf": "7AM-9PM (6PM F)",
-          "sat": "7AM-12P",
+          "sat": "7AM-12PM",
           "sun": "LOCKED"
         }
       },
