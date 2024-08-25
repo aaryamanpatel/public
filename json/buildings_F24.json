@@ -1,0 +1,1496 @@
+[
+  {
+    "building": "ACES LIBRARY",
+    "time": {
+      "mf": "http://www.library.illinois.edu/",
+      "sat": null,
+      "sun": null
+    },
+    "extra": []
+  },
+  {
+    "building": "ADMISSIONS AND RECORDS BLDG",
+    "time": {
+      "mf": "8:30AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "8:30AM-5PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "ADV COMPUTATION",
+    "time": {
+      "mf": "8AM-5PM ",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "AGR BIOPROC LAB",
+    "time": {
+      "mf": "7AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "AGR ENGR SCI BLDG (North & South Doors)",
+    "time": {
+      "mf": "7AM-10PM (5PM F)",
+      "sat": "1PM-5PM",
+      "sun": "1PM-10PM"
+    },
+    "extra": [
+      {
+        "info": "Other Doors",
+        "time": {
+          "mf": "7AM-5:30PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "ALICE CAMPBELL ALUMNI CTR (E, W DRS)",
+    "time": {
+      "mf": "9AM-5PM",
+      "sat": "10AM-1PM",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "9AM-5PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "ALTGELD HALL",
+    "time": {
+      "mf": "7AM-11PM (6PM F)",
+      "sat": "9AM-10PM",
+      "sun": "9AM-10PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "ANIMAL SCIENCES LAB",
+    "time": {
+      "mf": "7AM-9PM (6PM F)",
+      "sat": "7AM-12P",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "LOADING DOCK DOOR",
+        "time": {
+          "mf": "7AM-9PM (6PM F)",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "ACTIVITIES AND RECREATION CENTER (ARC)",
+    "time": {
+      "mf": " http://www.campusrec.illinois.edu/facilities/schedules/indoor.html",
+      "sat": null,
+      "sun": null
+    },
+    "extra": []
+  },
+  {
+    "building": "ARCHITECTURE BLDG",
+    "time": {
+      "mf": "6:30AM-10PM (5P F)",
+      "sat": "6:30AM-5PM",
+      "sun": "6:30AM-10PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "ARMORY (All OS Doors)",
+    "time": {
+      "mf": "5AM-10:30PM (10P F)",
+      "sat": "7AM-9PM",
+      "sun": "7AM-9PM"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS (All Doors)",
+        "time": {
+          "mf": "5AM-9PM",
+          "sat": "7AM-8PM",
+          "sun": "7AM-8PM"
+        }
+      }
+    ]
+  },
+  {
+    "building": "ART & DESIGN (N, W, S Doors)",
+    "time": {
+      "mf": "6AM-10PM",
+      "sat": "9AM-5PM",
+      "sun": "12N-10PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "ARCHITECTURE ANNEX",
+    "time": {
+      "mf": "7AM-10PM ",
+      "sat": "7AM-5PM",
+      "sun": "7AM-5PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "PERFORMING ARTS ANNEX",
+    "time": {
+      "mf": "LOCKED",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "ART STUDIO",
+    "time": {
+      "mf": "DEPT",
+      "sat": "DEPT",
+      "sun": "DEPT"
+    },
+    "extra": []
+  },
+  {
+    "building": "ASTRONOMY BLDG",
+    "time": {
+      "mf": "8A-5:30P (6P Tue.)",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "8AM-5:30PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "BEVIER HALL",
+    "time": {
+      "mf": "7AM-10PM (inc. F) ",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "BURRILL HALL",
+    "time": {
+      "mf": "7AM-7PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "BUSINESS INSTRUCTIONAL FACILITY",
+    "time": {
+      "mf": "6AM-12M (8P F)",
+      "sat": "6A-8P",
+      "sun": "10A-12M"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "7AM-6PM",
+          "sat": "12PM-3PM",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "CAMPUS INSTRUCTIONAL FACILITY",
+    "time": {
+      "mf": "7AM-11PM  (9PM F)",
+      "sat": "9AM-9PM",
+      "sun": "12PM-11PM"
+    },
+    "extra": [
+      {
+        "info": "(Between August 19 and 25)",
+        "time": {
+          "mf": "7AM-9PM",
+          "sat": "9AM-9PM",
+          "sun": "12PM-9PM"
+        }
+      },
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "LOCKED",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "CERAMICS BLDG (EXCEPT NW BSMT DR)",
+    "time": {
+      "mf": "7AM-10PM",
+      "sat": "7AM-10PM ",
+      "sun": "7AM-10PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "CERAMICS KILN HOUSE",
+    "time": {
+      "mf": "7AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "CHEMISTRY ANNEX ",
+    "time": {
+      "mf": "7:00AM-10PM",
+      "sat": "11AM-10PM",
+      "sun": "11AM-10PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "CHEM & LIFE SCIENCE LAB (A & C)",
+    "time": {
+      "mf": "7AM-6PM",
+      "sat": "LOCKED ",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "CHEM & LIFE SCIENCE LAB (B)",
+        "time": {
+          "mf": "7AM-6PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "CHILD DEVELOPMENT LAB",
+    "time": {
+      "mf": "7:30AM-5:45PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "CHILDREN'S RES CENTER (NE ADA Door, East Side Upstairs Main, Northwest 1st Floor, Southwest 1st Floor )",
+    "time": {
+      "mf": "7AM-5PM",
+      "sat": "10AM-2PM",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "CHRISTOPHER HALL",
+    "time": {
+      "mf": "7AM-8PM (6PM F)",
+      "sat": "8AM-12PM",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "CIVIL AND ENVIRONMENTAL ENGINEERING BUILDING",
+    "time": {
+      "mf": "7AM-6:00PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "COBLE HALL",
+    "time": {
+      "mf": "7:30AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "NORTH, SOUTH, EAST DOORS",
+        "time": {
+          "mf": "7:30AM-5:30PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "COMPUTING APPLIC BLDG",
+    "time": {
+      "mf": "7AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "COORDINATED SCIENCE LAB",
+    "time": {
+      "mf": "7:00AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "DANCE STUDIO",
+    "time": {
+      "mf": "7AM-10PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "LOCKED",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "DAVENPORT HALL",
+    "time": {
+      "mf": "7AM-6:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "D C L - DIGITAL COMPUTER LAB",
+    "time": {
+      "mf": "6:45AM-10PM",
+      "sat": "11AM-10PM",
+      "sun": "11AM-10PM"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "7:30AM-5:30PM",
+          "sat": "11:45AM-5:30PM",
+          "sun": "11:45AM-5:30PM"
+        }
+      }
+    ]
+  },
+  {
+    "building": "LINCOLN HALL",
+    "time": {
+      "mf": "7AM-11PM",
+      "sat": "7AM-11PM",
+      "sun": "12P-11PM"
+    },
+    "extra": [
+      {
+        "info": "    EAST QUAD SIDE DOORS",
+        "time": {
+          "mf": "7AM-12AM(midnight)",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "LITERATURES, CULTURES & LINGUISITCS BLDG",
+    "time": {
+      "mf": "7AM-10PM (6PM F)",
+      "sat": "7AM-6PM",
+      "sun": "12N-10PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "LOOMIS LAB",
+    "time": {
+      "mf": "7AM-9PM (6PM F)",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "MADIGAN LAB, EDWARD R.",
+    "time": {
+      "mf": "8AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "MAT RES LAB & S CORRIDOR DRS",
+    "time": {
+      "mf": "7AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "MEAT SCIENCE LAB",
+    "time": {
+      "mf": "7AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "MCKINLEY HEALTH CENTER",
+        "time": {
+          "mf": "8AM-5:30PM",
+          "sat": "8AM-4:30PM",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "LU M E B - MECH ENGR BUILDING",
+    "time": {
+      "mf": "7AM-6PM ",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "MECH ENGR LAB (W, E, ADA Doors)",
+    "time": {
+      "mf": "7AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "MEDICAL SCI BLDG (WEST OS DOOR, EAST OS LOADING DOCK, SOUTH OS ADA DOOR)",
+    "time": {
+      "mf": "7:30AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "M S E B - MATERIALS SCI & ENG BLDG",
+    "time": {
+      "mf": "7AM-10PM (5PM F)",
+      "sat": "7AM-12N",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "MORRILL HALL",
+    "time": {
+      "mf": "7AM-7PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "MUMFORD HALL",
+    "time": {
+      "mf": "7AM-11PM (6PM F)",
+      "sat": "7AM-6PM",
+      "sun": "12N-10PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "MUSIC BLDG 1ST FL North (Oregon) and South (Nevada)",
+    "time": {
+      "mf": "6:30AM-11:59PM",
+      "sat": "6:30AM-11:59PM",
+      "sun": "6:30AM-11:59PM"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS N LIBRARY LEVEL",
+        "time": {
+          "mf": "LOCKED",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      },
+      {
+        "info": "BREAK PERIOD HOURS NORTH & SOUTH",
+        "time": {
+          "mf": "7AM-9PM",
+          "sat": "7AM-9PM",
+          "sun": "7AM-9PM"
+        }
+      }
+    ]
+  },
+  {
+    "building": "NATL SOYBEAN RES CTR (NSRC)",
+    "time": {
+      "mf": "7AM-6PM ",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "NATURAL HISTORY BUILDING ",
+    "time": {
+      "mf": "7AM-10PM (9PM F)",
+      "sat": "7A-5PM",
+      "sun": "12N-10PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "NATURAL RES STUDIES ANNEX",
+    "time": {
+      "mf": "6AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "6AM-6PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "NATURAL RESOURCES BLDG",
+    "time": {
+      "mf": "7AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "1205 1/2 W NEVADA",
+    "time": {
+      "mf": "7AM-7PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "NEWMARK  CIVIL ENG BLDG ",
+    "time": {
+      "mf": "7AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "NOBLE HALL",
+    "time": {
+      "mf": "7AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "NOYES LAB",
+    "time": {
+      "mf": "7AM-11PM (10PM F)",
+      "sat": "7AM-10PM",
+      "sun": "1PM-11PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "NUCLEAR ENGINEERING LAB",
+    "time": {
+      "mf": "7:30AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "NUCLEAR PHYSIC LAB",
+    "time": {
+      "mf": "DEPT-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "NUCLEAR RADIATIONS LAB",
+    "time": {
+      "mf": "8:30AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "909 W OREGON, MUS BLDG ANNEX",
+    "time": {
+      "mf": "DEPT-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "OBSERVATORY",
+    "time": {
+      "mf": "6AM-5PM",
+      "sat": "DEPT",
+      "sun": "DEPT"
+    },
+    "extra": []
+  },
+  {
+    "building": "1207 W OREGON",
+    "time": {
+      "mf": "6AM-5:30PM (6A-8P M, 6A-7P Tu, 6A-6P W, 6A-7P Th)",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "OPTICAL PHYSICS & ENGINEERING",
+    "time": {
+      "mf": "LOCKED",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "PERSONNEL SERVICES BLDG",
+    "time": {
+      "mf": "DEPT-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "P P S B - PHYSICAL PLANT SERV BLDG",
+    "time": {
+      "mf": "7AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "7AM-5PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "PLANT SCI LAB",
+    "time": {
+      "mf": "7AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "PRINTING & PHOTOGRAPHIC SVCS",
+    "time": {
+      "mf": "LOCKED",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "  N & W Breezeway & N Door Dock Level",
+        "time": {
+          "mf": "7AM-5PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      },
+      {
+        "info": "  NORTH DOORS ground level",
+        "time": {
+          "mf": "LOCKED",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "D K H - DAVID KINLEY HALL",
+    "time": {
+      "mf": "7AM-12M (11PM F)",
+      "sat": "7AM-6PM",
+      "sun": "9:30AM-12M"
+    },
+    "extra": []
+  },
+  {
+    "building": "EARLY CHILD DEVELOPMENT LAB",
+    "time": {
+      "mf": "7:30AM-5:45PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "EDUCATION BLDG",
+    "time": {
+      "mf": "7AM-9PM",
+      "sat": "7AM-6PM",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "ELECTRICAL & COMPUTER ENG ",
+    "time": {
+      "mf": "7:30AM-10PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "ENGINEERING HALL (E, W, N Entrances)",
+    "time": {
+      "mf": "7AM-9PM (6P F)",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "South Entrance Only",
+        "time": {
+          "mf": "LOCKED",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      },
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "7AM-6PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "ENGINEERING SCI BLDG",
+    "time": {
+      "mf": "7AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "ENGLISH BUILDING (All Doors)",
+    "time": {
+      "mf": "7AM-12M (10PM F)",
+      "sat": "7AM-10PM",
+      "sun": "12N-12M"
+    },
+    "extra": []
+  },
+  {
+    "building": "EVERITT LAB",
+    "time": {
+      "mf": "7AM-8PM (5:30P F)",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "FLAGG HALL",
+    "time": {
+      "mf": "6AM-6PM",
+      "sat": "9AM-6PM",
+      "sun": "12N-6PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "FOELLINGER AUDITORIUM",
+    "time": {
+      "mf": "OPEN FOR CLASSES AND EVENTS AS NEEDED",
+      "sat": null,
+      "sun": null
+    },
+    "extra": []
+  },
+  {
+    "building": "FREER HALL",
+    "time": {
+      "mf": "6AM-10PM (incl. F)",
+      "sat": "8AM-4PM",
+      "sun": "8AM-4PM"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "LOCKED",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "GEOLOGICAL SURVEY LAB",
+    "time": {
+      "mf": "7AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "GREGORY HALL",
+    "time": {
+      "mf": "7AM-11:59PM",
+      "sat": "7AM-11:59PM",
+      "sun": "7AM-11:59PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "HARDING BAND BLDG ",
+    "time": {
+      "mf": "7:30AM-8P (9:30P Th)",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "LOCKED",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "HARKER HALL (N and S Doors)",
+    "time": {
+      "mf": "LOCKED",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "HENRY ADMIN BUILDING",
+    "time": {
+      "mf": "7AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "HORT FIELD LAB (N, S, W DOORS)",
+    "time": {
+      "mf": "7AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "HUFF HALL",
+    "time": {
+      "mf": "7AM-10PM (6PM F)",
+      "sat": "10AM-6PM",
+      "sun": "6AM-10PM"
+    },
+    "extra": [
+      {
+        "info": "SW Doors Only",
+        "time": {
+          "mf": "5AM-10PM (6PM F)",
+          "sat": "10AM-6PM",
+          "sun": "6AM-10PM"
+        }
+      },
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "7AM-10PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "I BUILDING (FORBES NAT. HIST. BLDG.)",
+    "time": {
+      "mf": "6AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "6AM-6PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "ICE ARENA",
+    "time": {
+      "mf": "http://www.campusrec.illinois.edu/skating/publicSkates.html",
+      "sat": null,
+      "sun": null
+    },
+    "extra": []
+  },
+  {
+    "building": "IGB (INSTITUTE FOR GENOMIC BIOLOGY)",
+    "time": {
+      "mf": "7:30AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "INTERNATIONAL STUDIES BLDG",
+    "time": {
+      "mf": "8AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "IRWIN DOCTORAL STUDY HALL\n(E. and W. Main Entrances)",
+    "time": {
+      "mf": "7AM-8PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "KRANNERT CENTER PER ARTS",
+    "time": {
+      "mf": "7AM-11PM",
+      "sat": "7AM-11PM",
+      "sun": "7AM-11PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "KRANNERT ART MUSEUM",
+    "time": {
+      "mf": "10A-4P (Locked M, 8P Th)",
+      "sat": "10AM-4PM",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "LABOR & EMPLOYMENT RELATIONS\n  North Doors (patio & stairs), South & West Doors",
+    "time": {
+      "mf": "7:30AM-430PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "LOCKED",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "LAW BUILDING (July 29 - Dec 20)",
+    "time": {
+      "mf": null,
+      "sat": null,
+      "sun": null
+    },
+    "extra": [
+      {
+        "info": "Peabody and 6th Street Doors ",
+        "time": {
+          "mf": "7:30AM-6PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      },
+      {
+        "info": "Penn Avenue Main Entrance",
+        "time": {
+          "mf": "7:30AM-6PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      },
+      {
+        "info": "Dock Doors - Penn Avenue",
+        "time": {
+          "mf": "7:30AM-6PM ",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "LEVIS FACULTY CENTER",
+    "time": {
+      "mf": "8AM-5PM (8A-7P M,W)",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "LIBRARY  http://www.library.illinois.edu/",
+    "time": {
+      "mf": null,
+      "sat": null,
+      "sun": null
+    },
+    "extra": []
+  },
+  {
+    "building": "LIBRARY & INFORMATION SCIENCE",
+    "time": {
+      "mf": "7:30AM-6:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "LIBRARY & INFORMATION SCIENCE",
+    "time": {
+      "mf": "7:30AM-6:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "POLICE TRAINING INSTITUTE",
+    "time": {
+      "mf": "7AM-3:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "PSYCHOLOGY BLDG",
+    "time": {
+      "mf": "7AM-8PM (5PM F)",
+      "sat": "7AM-5PM",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "R A L - ROGER ADAMS LAB",
+    "time": {
+      "mf": "7AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "NORTH DOORS",
+        "time": {
+          "mf": "7AM-6PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "REHABILITATION CENTER (E. MAIN ADA, N, W, E BASEMENT DOORS)",
+    "time": {
+      "mf": "7:30AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "ROBERT EVERS LAB",
+    "time": {
+      "mf": "7AM - 6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "508 S SIXTH STREET",
+    "time": {
+      "mf": "8AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "SIEBEL CENTER FOR COMPUTER SCIENCE (East and West Doors Only)",
+    "time": {
+      "mf": "7AM-9:30PM",
+      "sat": "7AM-9:30PM",
+      "sun": "7AM-9:30PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "SIEBEL CENTER FOR DESIGN",
+    "time": {
+      "mf": "7:00A-11:59PM",
+      "sat": "7:00A-11:59PM",
+      "sun": "7:00A-11:59PM"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "LOCKED",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "SMITH HALL (Main, NE Doors Only)",
+    "time": {
+      "mf": "6:30AM-11:59PM",
+      "sat": "6:30AM-11:59PM",
+      "sun": "6:30AM-11:59PM"
+    },
+    "extra": [
+      {
+        "info": "SE ADA DOOR (E-LOCK)",
+        "time": {
+          "mf": "6:30AM-11:59PM",
+          "sat": "6:30AM-11:59PM",
+          "sun": "6:30AM-11:59PM"
+        }
+      },
+      {
+        "info": "BREAK PERIOD (ALL DOORS)",
+        "time": {
+          "mf": "7AM-9PM",
+          "sat": "7AM-9PM",
+          "sun": "7AM-9PM"
+        }
+      }
+    ]
+  },
+  {
+    "building": "SPEECH & HEARING CLINIC",
+    "time": {
+      "mf": "7:30AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "STOCK PAVILION \nNorth Doors, South Middle Door",
+    "time": {
+      "mf": "6AM-11PM",
+      "sat": "6AM-6PM",
+      "sun": "6AM-6PM"
+    },
+    "extra": []
+  },
+  {
+    "building": "STUDENT SERVICES ARCADE BLDG",
+    "time": {
+      "mf": "7:30AM-7:30PM (5:30PM F)",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "STUDENT SERVICES BLDG",
+    "time": {
+      "mf": "7:30AM-5:30PM (7P WR only)",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "SUPER CONDUCTIVITY CENTER",
+    "time": {
+      "mf": "7AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "SWANLUND ADMIN BLDG \n(N DOOR, N ADA Door)",
+    "time": {
+      "mf": "7:30AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "(SWANLUND ADMIN BLDG (S DOOR)",
+        "time": {
+          "mf": "LOCKED",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "T H BUELL HALL",
+    "time": {
+      "mf": null,
+      "sat": null,
+      "sun": null
+    },
+    "extra": [
+      {
+        "info": "(NE, NW, S Doors and SW Patio Door)",
+        "time": {
+          "mf": "7AM-9PM (6PM F)",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "TALBOT LABORATORY",
+    "time": {
+      "mf": "7AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "TRANSPORTATION BLDG (N. Door)",
+    "time": {
+      "mf": "7AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "West Door (E-Lock)",
+        "time": {
+          "mf": "7AM-9PM",
+          "sat": "7AM-9PM",
+          "sun": "7AM-9PM"
+        }
+      },
+      {
+        "info": "East Doors",
+        "time": {
+          "mf": "7AM-6PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "TURNER HALL",
+    "time": {
+      "mf": "7AM-9PM (5 PM F)",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "VET TEACHING HOSPITAL",
+    "time": {
+      "mf": "7AM-9PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "(SAC and LAC)",
+        "time": {
+          "mf": "7AM-4:30PM (LAC)",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "VMBSB (East Entrance ADA, East",
+    "time": {
+      "mf": "7AM-7PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "BREAK PERIOD HOURS",
+        "time": {
+          "mf": "7AM-7PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "VET MED SOUTH CLINIC - VMSC",
+    "time": {
+      "mf": "7:30AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "VM SOL (Clinical Skills Learning Ctr)",
+    "time": {
+      "mf": "LOCKED",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "VIVARIUM",
+    "time": {
+      "mf": "7AM-5PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": [
+      {
+        "info": "YEH STUDENT CENTER",
+        "time": {
+          "mf": "7:30AM-5:30PM",
+          "sat": "LOCKED",
+          "sun": "LOCKED"
+        }
+      }
+    ]
+  },
+  {
+    "building": "807 S WRIGHT (IUB) N & E DRS OF NE DRS",
+    "time": {
+      "mf": "7AM-5:30PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
+    },
+    "extra": []
+  },
+  {
+    "building": "WOHLERS HALL",
+    "time": {
+      "mf": "7AM-11P (9P F)",
+      "sat": "7AM-9P",
+      "sun": "12N-11P"
+    },
+    "extra": [
+      {
+        "info": "LOADING DOOR",
+        "time": {
+          "mf": "7AM-11P (9P F)",
+          "sat": "LOCKED",
+          "sun": "12N-11P"
+        }
+      }
+    ]
+  }
+]
