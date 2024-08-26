@@ -404,7 +404,7 @@
     "extra": []
   },
   {
-    "building": "D C L - DIGITAL COMPUTER LAB",
+    "building": "DCL - DIGITAL COMPUTER LAB",
     "time": {
       "mf": "6:45AM-10PM",
       "sat": "11AM-10PM",
@@ -727,7 +727,7 @@
     "extra": []
   },
   {
-    "building": "P P S B - PHYSICAL PLANT SERV BLDG",
+    "building": "PPSB - PHYSICAL PLANT SERV BLDG",
     "time": {
       "mf": "7AM-5PM",
       "sat": "LOCKED",
@@ -780,7 +780,7 @@
     ]
   },
   {
-    "building": "D K H - DAVID KINLEY HALL",
+    "building": "DKH - DAVID KINLEY HALL",
     "time": {
       "mf": "7AM-12AM (11PM F)",
       "sat": "7AM-6PM",
