@@ -93,7 +93,7 @@
     "building": "ANIMAL SCIENCES LAB",
     "time": {
       "mf": "7AM-9PM (6PM F)",
-      "sat": "7AM-12P",
+      "sat": "7AM-12PM",
       "sun": "LOCKED"
     },
     "extra": [
@@ -426,7 +426,7 @@
     "time": {
       "mf": "7AM-11PM",
       "sat": "7AM-11PM",
-      "sun": "12P-11PM"
+      "sun": "12PM-11PM"
     },
     "extra": [
       {
