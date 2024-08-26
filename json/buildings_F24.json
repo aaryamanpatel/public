@@ -1228,9 +1228,9 @@
   {
     "building": "SIEBEL CENTER FOR DESIGN",
     "time": {
-      "mf": "7:00A-11:59PM",
-      "sat": "7:00A-11:59PM",
-      "sun": "7:00A-11:59PM"
+      "mf": "7:00AM-11:59PM",
+      "sat": "7:00AM-11:59PM",
+      "sun": "7:00AM-11:59PM"
     },
     "extra": [
       {
