@@ -148,7 +148,7 @@
     "time": {
       "mf": "6AM-10PM",
       "sat": "9AM-5PM",
-      "sun": "12N-10PM"
+      "sun": "12PM-10PM"
     },
     "extra": []
   },
@@ -218,9 +218,9 @@
   {
     "building": "BUSINESS INSTRUCTIONAL FACILITY",
     "time": {
-      "mf": "6AM-12M (8P F)",
+      "mf": "6AM-12AM (8P F)",
       "sat": "6A-8P",
-      "sun": "10A-12M"
+      "sun": "10A-12AM"
     },
     "extra": [
       {
@@ -444,7 +444,7 @@
     "time": {
       "mf": "7AM-10PM (6PM F)",
       "sat": "7AM-6PM",
-      "sun": "12N-10PM"
+      "sun": "12PM-10PM"
     },
     "extra": []
   },
@@ -524,7 +524,7 @@
     "building": "M S E B - MATERIALS SCI & ENG BLDG",
     "time": {
       "mf": "7AM-10PM (5PM F)",
-      "sat": "7AM-12N",
+      "sat": "7AM-12PM",
       "sun": "LOCKED"
     },
     "extra": []
@@ -543,7 +543,7 @@
     "time": {
       "mf": "7AM-11PM (6PM F)",
       "sat": "7AM-6PM",
-      "sun": "12N-10PM"
+      "sun": "12PM-10PM"
     },
     "extra": []
   },
@@ -587,7 +587,7 @@
     "time": {
       "mf": "7AM-10PM (9PM F)",
       "sat": "7A-5PM",
-      "sun": "12N-10PM"
+      "sun": "12PM-10PM"
     },
     "extra": []
   },
@@ -782,9 +782,9 @@
   {
     "building": "D K H - DAVID KINLEY HALL",
     "time": {
-      "mf": "7AM-12M (11PM F)",
+      "mf": "7AM-12AM (11PM F)",
       "sat": "7AM-6PM",
-      "sun": "9:30AM-12M"
+      "sun": "9:30AM-12AM"
     },
     "extra": []
   },
@@ -853,9 +853,9 @@
   {
     "building": "ENGLISH BUILDING (All Doors)",
     "time": {
-      "mf": "7AM-12M (10PM F)",
+      "mf": "7AM-12AM (10PM F)",
       "sat": "7AM-10PM",
-      "sun": "12N-12M"
+      "sun": "12PM-12AM"
     },
     "extra": []
   },
@@ -873,7 +873,7 @@
     "time": {
       "mf": "6AM-6PM",
       "sat": "9AM-6PM",
-      "sun": "12N-6PM"
+      "sun": "12PM-6PM"
     },
     "extra": []
   },
@@ -889,7 +889,7 @@
   {
     "building": "FREER HALL",
     "time": {
-      "mf": "6AM-10PM (incl. F)",
+      "mf": "6AM-10PM",
       "sat": "8AM-4PM",
       "sun": "8AM-4PM"
     },
@@ -925,7 +925,7 @@
   {
     "building": "HARDING BAND BLDG ",
     "time": {
-      "mf": "7:30AM-8P (9:30P Th)",
+      "mf": "7:30AM-8PM (9:30PM Th)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -1059,7 +1059,7 @@
   {
     "building": "KRANNERT ART MUSEUM",
     "time": {
-      "mf": "10A-4P (Locked M, 8P Th)",
+      "mf": "10AM-4PM (Locked M, 8PM Th)",
       "sat": "10AM-4PM",
       "sun": "LOCKED"
     },
@@ -1110,7 +1110,7 @@
       {
         "info": "Dock Doors - Penn Avenue",
         "time": {
-          "mf": "7:30AM-6PM ",
+          "mf": "7:30AM-6PM",
           "sat": "LOCKED",
           "sun": "LOCKED"
         }
@@ -1120,7 +1120,7 @@
   {
     "building": "LEVIS FACULTY CENTER",
     "time": {
-      "mf": "8AM-5PM (8A-7P M,W)",
+      "mf": "8AM-5PM (8AM-7PM M,W)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -1480,15 +1480,15 @@
     "time": {
       "mf": "7AM-11P (9P F)",
       "sat": "7AM-9P",
-      "sun": "12N-11P"
+      "sun": "12PM-11P"
     },
     "extra": [
       {
         "info": "LOADING DOOR",
         "time": {
-          "mf": "7AM-11P (9P F)",
+          "mf": "7AM-11P (9PM F)",
           "sat": "LOCKED",
-          "sun": "12N-11P"
+          "sun": "12PM-11P"
         }
       }
     ]
