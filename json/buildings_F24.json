@@ -119,7 +119,7 @@
   {
     "building": "ARCHITECTURE BLDG",
     "time": {
-      "mf": "6:30AM-10PM (5P F)",
+      "mf": "6:30AM-10PM (5PM F)",
       "sat": "6:30AM-5PM",
       "sun": "6:30AM-10PM"
     },
@@ -128,7 +128,7 @@
   {
     "building": "ARMORY (All OS Doors)",
     "time": {
-      "mf": "5AM-10:30PM (10P F)",
+      "mf": "5AM-10:30PM (10PM F)",
       "sat": "7AM-9PM",
       "sun": "7AM-9PM"
     },
@@ -155,7 +155,7 @@
   {
     "building": "ARCHITECTURE ANNEX",
     "time": {
-      "mf": "7AM-10PM ",
+      "mf": "7AM-10PM",
       "sat": "7AM-5PM",
       "sun": "7AM-5PM"
     },
