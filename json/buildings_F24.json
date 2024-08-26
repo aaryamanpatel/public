@@ -29,7 +29,7 @@
   {
     "building": "ADV COMPUTATION",
     "time": {
-      "mf": "8AM-5PM ",
+      "mf": "8AM-5PM",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -182,7 +182,7 @@
   {
     "building": "ASTRONOMY BLDG",
     "time": {
-      "mf": "8AM-5:30PM (6PM Tue.)",
+      "mf": "8A-5:30P (6P Tue.)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -218,9 +218,9 @@
   {
     "building": "BUSINESS INSTRUCTIONAL FACILITY",
     "time": {
-      "mf": "6AM-12AM (8PM F)",
-      "sat": "6AM-8PM",
-      "sun": "10AM-12AM"
+      "mf": "6AM-12AM (8P F)",
+      "sat": "6A-8P",
+      "sun": "10A-12AM"
     },
     "extra": [
       {
@@ -263,7 +263,7 @@
     "building": "CERAMICS BLDG (EXCEPT NW BSMT DR)",
     "time": {
       "mf": "7AM-10PM",
-      "sat": "7AM-10PM ",
+      "sat": "7AM-10PM",
       "sun": "7AM-10PM"
     },
     "extra": []
@@ -404,7 +404,7 @@
     "extra": []
   },
   {
-    "building": "DCL - DIGITAL COMPUTER LAB",
+    "building": "D C L - DIGITAL COMPUTER LAB",
     "time": {
       "mf": "6:45AM-10PM",
       "sat": "11AM-10PM",
@@ -432,7 +432,7 @@
       {
         "info": "EAST QUAD SIDE DOORS",
         "time": {
-          "mf": "7AM-12AM",
+          "mf": "7AM-12AM(midnight)",
           "sat": "LOCKED",
           "sun": "LOCKED"
         }
@@ -494,9 +494,9 @@
     ]
   },
   {
-    "building": "LU M E B - MECH ENGR BUILDING",
+    "building": "LU MEB - MECH ENGR BUILDING",
     "time": {
-      "mf": "7AM-6PM ",
+      "mf": "7AM-6PM",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -521,7 +521,7 @@
     "extra": []
   },
   {
-    "building": "M S E B - MATERIALS SCI & ENG BLDG",
+    "building": "MSEB - MATERIALS SCI & ENG BLDG",
     "time": {
       "mf": "7AM-10PM (5PM F)",
       "sat": "7AM-12PM",
@@ -576,7 +576,7 @@
   {
     "building": "NATL SOYBEAN RES CTR (NSRC)",
     "time": {
-      "mf": "7AM-6PM ",
+      "mf": "7AM-6PM",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -818,7 +818,7 @@
   {
     "building": "ENGINEERING HALL (E, W, N Entrances)",
     "time": {
-      "mf": "7AM-9PM (6P F)",
+      "mf": "7AM-9PM (6PM F)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -862,7 +862,7 @@
   {
     "building": "EVERITT LAB",
     "time": {
-      "mf": "7AM-8PM (5:30P F)",
+      "mf": "7AM-8PM (5:30PM F)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -925,7 +925,7 @@
   {
     "building": "HARDING BAND BLDG ",
     "time": {
-      "mf": "7:30AM-8PM (9:30PM Th)",
+      "mf": "7:30AM-8P (9:30P Th)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -1059,7 +1059,7 @@
   {
     "building": "KRANNERT ART MUSEUM",
     "time": {
-      "mf": "10AM-4PM (Locked M, 8PM Th)",
+      "mf": "10A-4P (Locked M, 8P Th)",
       "sat": "10AM-4PM",
       "sun": "LOCKED"
     },
@@ -1120,7 +1120,7 @@
   {
     "building": "LEVIS FACULTY CENTER",
     "time": {
-      "mf": "8AM-5PM (8AM-7PM M,W)",
+      "mf": "8AM-5PM (8A-7P M,W)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -1228,9 +1228,9 @@
   {
     "building": "SIEBEL CENTER FOR DESIGN",
     "time": {
-      "mf": "7:00AM-11:59PM",
-      "sat": "7:00AM-11:59PM",
-      "sun": "7:00AM-11:59PM"
+      "mf": "7:00A-11:59PM",
+      "sat": "7:00A-11:59PM",
+      "sun": "7:00A-11:59PM"
     },
     "extra": [
       {
@@ -1299,7 +1299,7 @@
   {
     "building": "STUDENT SERVICES BLDG",
     "time": {
-      "mf": "7:30AM-5:30PM (7P WR only)",
+      "mf": "7:30AM-5:30PM (7PM WR only)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -1388,7 +1388,7 @@
   {
     "building": "TURNER HALL",
     "time": {
-      "mf": "7AM-9PM (5 PM F)",
+      "mf": "7AM-9PM (5PM F)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -1478,8 +1478,8 @@
   {
     "building": "WOHLERS HALL",
     "time": {
-      "mf": "7AM-11PM (9P F)",
-      "sat": "7AM-9P",
+      "mf": "7AM-11P (9P F)",
+      "sat": "7AM-9PM",
       "sun": "12PM-11PM"
     },
     "extra": [
