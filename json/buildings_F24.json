@@ -200,7 +200,7 @@
   {
     "building": "BEVIER HALL",
     "time": {
-      "mf": "7AM-10PM (inc. F) ",
+      "mf": "7AM-10PM",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -404,7 +404,7 @@
     "extra": []
   },
   {
-    "building": "DCL - DIGITAL COMPUTER LAB",
+    "building": "D C L - DIGITAL COMPUTER LAB",
     "time": {
       "mf": "6:45AM-10PM",
       "sat": "11AM-10PM",
@@ -702,11 +702,18 @@
   {
     "building": "1207 W OREGON",
     "time": {
-      "mf": "6AM-5:30PM (6A-8P M, 6A-7P Tu, 6A-6P W, 6A-7P Th)",
+      "mf": "6AM-5:30PM",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
-    "extra": []
+    "extra": [{
+      "info": "VARYING HOURS",
+      "time": {
+        "mf": "6AM-8PM M, 6AM-7PM T, 6AM-6PM W, 6AM-7PM R",
+        "sat": "LOCKED",
+        "sun": "LOCKED"
+      }
+    }]
   },
   {
     "building": "OPTICAL PHYSICS & ENGINEERING",
@@ -727,7 +734,7 @@
     "extra": []
   },
   {
-    "building": "PPSB - PHYSICAL PLANT SERV BLDG",
+    "building": "P P S B - PHYSICAL PLANT SERV BLDG",
     "time": {
       "mf": "7AM-5PM",
       "sat": "LOCKED",
@@ -780,7 +787,7 @@
     ]
   },
   {
-    "building": "DKH - DAVID KINLEY HALL",
+    "building": "D K H - DAVID KINLEY HALL",
     "time": {
       "mf": "7AM-12AM (11PM F)",
       "sat": "7AM-6PM",
@@ -925,7 +932,7 @@
   {
     "building": "HARDING BAND BLDG ",
     "time": {
-      "mf": "7:30AM-8P (9:30P Th)",
+      "mf": "7:30AM-8PM (9:30PM R)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -1021,11 +1028,11 @@
     "extra": []
   },
   {
-    "building": "ILLNI UNION",
+    "building": "ILLINI UNION",
     "time": {
-      "mf": "7AM-11PM",
-      "sat": "7AM-11PM",
-      "sun": "7AM-11PM"
+    "mf": "7AM-11PM",
+    "sat": "7AM-11PM",
+    "sun": "7AM-11PM"
     },
     "extra": []
   },
@@ -1077,7 +1084,7 @@
   {
     "building": "LABOR & EMPLOYMENT RELATIONS\n  North Doors (patio & stairs), South & West Doors",
     "time": {
-      "mf": "7:30AM-430PM",
+      "mf": "7:30AM-4:30PM",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -1132,15 +1139,6 @@
       "mf": "8AM-5PM (8A-7P M,W)",
       "sat": "LOCKED",
       "sun": "LOCKED"
-    },
-    "extra": []
-  },
-  {
-    "building": "LIBRARY  http://www.library.illinois.edu/",
-    "time": {
-      "mf": null,
-      "sat": null,
-      "sun": null
     },
     "extra": []
   },
@@ -1308,7 +1306,7 @@
   {
     "building": "STUDENT SERVICES BLDG",
     "time": {
-      "mf": "7:30AM-5:30PM (7PM WR only)",
+      "mf": "7:30AM-5:30PM (7PM WR)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
