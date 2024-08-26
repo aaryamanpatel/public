@@ -182,7 +182,7 @@
   {
     "building": "ASTRONOMY BLDG",
     "time": {
-      "mf": "8A-5:30P (6P Tue.)",
+      "mf": "8AM-5:30PM (6PM Tue.)",
       "sat": "LOCKED",
       "sun": "LOCKED"
     },
@@ -218,9 +218,9 @@
   {
     "building": "BUSINESS INSTRUCTIONAL FACILITY",
     "time": {
-      "mf": "6AM-12AM (8P F)",
-      "sat": "6A-8P",
-      "sun": "10A-12AM"
+      "mf": "6AM-12AM (8PM F)",
+      "sat": "6AM-8PM",
+      "sun": "10AM-12AM"
     },
     "extra": [
       {
@@ -404,7 +404,7 @@
     "extra": []
   },
   {
-    "building": "D C L - DIGITAL COMPUTER LAB",
+    "building": "DCL - DIGITAL COMPUTER LAB",
     "time": {
       "mf": "6:45AM-10PM",
       "sat": "11AM-10PM",
@@ -430,9 +430,9 @@
     },
     "extra": [
       {
-        "info": "    EAST QUAD SIDE DOORS",
+        "info": "EAST QUAD SIDE DOORS",
         "time": {
-          "mf": "7AM-12AM(midnight)",
+          "mf": "7AM-12AM",
           "sat": "LOCKED",
           "sun": "LOCKED"
         }
