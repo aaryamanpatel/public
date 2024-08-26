@@ -1021,6 +1021,15 @@
     "extra": []
   },
   {
+    "building": "ILLNI UNION",
+    "time": {
+      "mf": "7AM-11PM",
+      "sat": "7AM-11PM",
+      "sun": "7AM-11PM"
+    },
+    "extra": []
+  },
+  {
     "building": "IGB (INSTITUTE FOR GENOMIC BIOLOGY)",
     "time": {
       "mf": "7:30AM-5:30PM",
