@@ -1478,17 +1478,17 @@
   {
     "building": "WOHLERS HALL",
     "time": {
-      "mf": "7AM-11P (9P F)",
+      "mf": "7AM-11PM (9P F)",
       "sat": "7AM-9P",
-      "sun": "12PM-11P"
+      "sun": "12PM-11PM"
     },
     "extra": [
       {
         "info": "LOADING DOOR",
         "time": {
-          "mf": "7AM-11P (9PM F)",
+          "mf": "7AM-11PM (9PM F)",
           "sat": "LOCKED",
-          "sun": "12PM-11P"
+          "sun": "12PM-11PM"
         }
       }
     ]
