@@ -1102,9 +1102,9 @@
   {
     "building": "LAW BUILDING (July 29 - Dec 20)",
     "time": {
-      "mf": null,
-      "sat": null,
-      "sun": null
+      "mf": "7:30AM-6PM",
+      "sat": "LOCKED",
+      "sun": "LOCKED"
     },
     "extra": [
       {
@@ -1343,8 +1343,8 @@
     "building": "T H BUELL HALL",
     "time": {
       "mf": "7AM-9PM (6PM F)",
-      "sat": null,
-      "sun": null
+      "sat": "LOCKED",
+      "sun": "LOCKED"
     },
     "extra": [
       {
