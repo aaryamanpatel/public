@@ -45,7 +45,13 @@
         "title": "Live Sea Otter Cam - Monterey Bay Aquarium",
         "thumbnail": "https://i.ytimg.com/vi/WrKZzs-CB_8/hqdefault_live.jpg",
         "channel_title": "Monterey Bay Aquarium",
-        "url": "https://www.youtube.com/embed/WrKZzs-CB_8"
+        "url": "https://www.youtube.com/embed/abbR-Ttd-cA"
+    },
+    {
+        "title": "Sea Otter Pup Cam | Vancouver Aquarium",
+        "thumbnail": "https://i.ytimg.com/vi/sKT8-rhfWwQ/hqdefault_live.jpg",
+        "channel_title": "Vancouver Aquarium",
+        "url": "https://www.youtube.com/embed/sKT8-rhfWwQ"
     },
     {
         "title": "Tropical Reef Camera powered by EXPLORE.org",
@@ -148,12 +154,6 @@
         "thumbnail": "https://i.ytimg.com/vi/ie67zjkHXro/hqdefault_live.jpg",
         "channel_title": "Hummingbird Spot",
         "url": "https://www.youtube.com/embed/ie67zjkHXro"
-    },
-    {
-        "title": "Tiger Cam of Animal Adventure: Bao &amp; Ming",
-        "thumbnail": "https://i.ytimg.com/vi/oHfkDXMqTIw/hqdefault_live.jpg",
-        "channel_title": "Animal Adventure Park",
-        "url": "https://www.youtube.com/embed/oHfkDXMqTIw"
     },
     {
         "title": "West End Bald Eagle Cam powered by EXPLORE.org",
@@ -520,12 +520,6 @@
         "thumbnail": "https://i.ytimg.com/vi/drpk-hUdbE4/hqdefault_live.jpg",
         "channel_title": "Red Barn Cavaliers",
         "url": "https://www.youtube.com/embed/drpk-hUdbE4"
-    },
-    {
-        "title": "Reykjanes multiview - Live from Iceland",
-        "thumbnail": "https://i.ytimg.com/vi/804nPrAUAxg/hqdefault_live.jpg",
-        "channel_title": "Live from Iceland",
-        "url": "https://www.youtube.com/embed/804nPrAUAxg"
     },
     {
         "title": "\ud83d\udd34 UK Bird Feeder Camera, Surrey Garden",
