@@ -514,5 +514,11 @@
         "thumbnail": "https://i.ytimg.com/vi/Sq-X4Ga1oyc/hqdefault_live.jpg",
         "channel_title": "Explore Oceans",
         "url": "https://www.youtube.com/embed/Sq-X4Ga1oyc"
-    }
+    },
+    {
+        "title": "GoatsLive Live Stream",
+        "thumbnail": "https://i.ytimg.com/vi/zIsXC-OMf6Y/hq720.jpg",
+        "channel_title": "GoatsLive",
+        "url": "https://www.youtube.com/embed/zIsXC-OMf6Y"
+    }   
 ]
