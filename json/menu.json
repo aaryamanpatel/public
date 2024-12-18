@@ -1,0 +1,447 @@
+{
+    "swad_ka_arambh": [
+        {
+            "name": "Mix Pakora Platter",
+            "description": "Assortment of crispy pakoras including paneer, onion, potato, and spinach fritters, served with tangy chutney and cooling mint raita.",
+            "price": 12,
+            "tags": ["appetizer", "vegetarian", "crispy"]
+        },
+        {
+            "name": "Punjabi Samosa",
+            "description": "Crisp fried Indian snack with a delicious stuffing of potatoes & peas.",
+            "price": 6,
+            "tags": ["appetizer", "vegetarian"]
+        },
+        {
+            "name": "Chicken 65",
+            "description": "Bite size pieces of chicken coated in spicy masala marination.",
+            "price": 12,
+            "tags": ["appetizer", "non-vegetarian", "spicy"]
+        },
+        {
+            "name": "Achari Malai Soya Chaap",
+            "description": "Protein-rich soya chunks with all of the flavors of Punjabi achar (pickle).",
+            "price": 12,
+            "tags": ["appetizer", "vegetarian"]
+        }
+    ],
+    "china_gate": [
+        {
+            "name": "Chilli Paneer",
+            "description": "Crispy paneer chunks tossed in a fiery, flavorful sauce with green chilies, garlic, and soy sauce for a deliciously spicy treat.",
+            "price": 12,
+            "tags": ["indo-chinese", "vegetarian", "spicy"]
+        },
+        {
+            "name": "Chilli Chicken",
+            "description": "Tender chicken pieces tossed in a spicy sauce with green chilies, garlic, and soy sauce.",
+            "price": 14,
+            "tags": ["indo-chinese", "non-vegetarian", "spicy"]
+        },
+        {
+            "name": "Chilli Shrimp",
+            "description": "Succulent shrimp tossed in a spicy sauce with green chilies, garlic, and soy sauce.",
+            "price": 14,
+            "tags": ["indo-chinese", "non-vegetarian", "spicy"]
+        },
+        {
+            "name": "Veg Hakka Noodles",
+            "description": "Stir-fried noodles with assorted vegetables, seasoned with soy sauce and aromatic spices.",
+            "price": 12,
+            "tags": ["indo-chinese", "vegetarian"]
+        },
+        {
+            "name": "Chicken Hakka Noodles",
+            "description": "Stir-fried noodles with chicken and vegetables, seasoned with soy sauce and aromatic spices.",
+            "price": 14,
+            "tags": ["indo-chinese", "non-vegetarian"]
+        },
+        {
+            "name": "Shrimp Hakka Noodles",
+            "description": "Stir-fried noodles with shrimp and vegetables, seasoned with soy sauce and aromatic spices.",
+            "price": 14,
+            "tags": ["indo-chinese", "non-vegetarian"]
+        },
+        {
+            "name": "Veg Fried Rice",
+            "description": "Fluffy rice stir-fried with an assortment of fresh vegetables, seasoned with soy sauce and aromatic spices.",
+            "price": 12,
+            "tags": ["indo-chinese", "vegetarian"]
+        },
+        {
+            "name": "Chicken Fried Rice",
+            "description": "Fluffy rice stir-fried with chicken and vegetables, seasoned with soy sauce and aromatic spices.",
+            "price": 14,
+            "tags": ["indo-chinese", "non-vegetarian"]
+        }
+    ],
+    "shorba_ki_dawat": [
+        {
+            "name": "Mulligatawny",
+            "description": "Spiced Indian soup with a base of lentils and vegetables, seasoned with a blend of curry spices like cumin, coriander, and turmeric.",
+            "price": 6,
+            "tags": ["soup", "spicy"]
+        },
+        {
+            "name": "Tomato Shorba",
+            "description": "Tangy and flavorful Indian soup made primarily from tomatoes, seasoned with aromatic spices like cumin, ginger, and garlic.",
+            "price": 6,
+            "tags": ["soup", "vegetarian", "tangy"]
+        }
+    ],
+    "anda_bahar": [
+        {
+            "name": "Boiled Egg Masala",
+            "description": "Boiled eggs in a spicy and flavorful tomato-based gravy, with Indian spices like cumin, coriander, and turmeric.",
+            "price": 7,
+            "tags": ["egg", "main course"]
+        },
+        {
+            "name": "Desi Masala Omelette/Bhurji",
+            "description": "A hearty Indian omelette/bhurji made with eggs, onions, tomatoes, green chilies, and cilantro, spiced with turmeric, cumin, and chili powder.",
+            "price": 10,
+            "tags": ["egg", "main course", "spicy"]
+        },
+        {
+            "name": "Egg Lababdar/Anda Curry",
+            "description": "An Indian specialty featuring Sunnyside-up eggs or Boiled eggs simmered in a creamy tomato-based gravy with spices like cumin, coriander, and garam masala.",
+            "price": 12,
+            "tags": ["egg", "main course", "rich"]
+        }
+    ],
+    "gali_mohalle_se": [
+        {
+            "name": "Vada Pav",
+            "description": "A Mumbai street food consisting of a spicy potato fritter sandwiched inside a soft bun, garnished with chutneys and fried green chilies.",
+            "price": 10,
+            "tags": ["street food", "vegetarian", "spicy"]
+        },
+        {
+            "name": "Dabeli",
+            "description": "A tangy potato filling stuffed inside a soft bun, garnished with roasted peanuts and pomegranate seeds.",
+            "price": 10,
+            "tags": ["street food", "vegetarian", "tangy"]
+        },
+        {
+            "name": "Pani Puri",
+            "description": "Small puri balls filled with spiced chickpeas, black peas, and specially made spiced water.",
+            "price": 10,
+            "tags": ["street food", "vegetarian"]
+        },
+        {
+            "name": "Sev Puri",
+            "description": "Puri filled with sweet yogurt and chaat chutneys.",
+            "price": 10,
+            "tags": ["street food", "vegetarian"]
+        },
+        {
+            "name": "Papdi Chaat",
+            "description": "Papdi filled with boiled chickpeas, potatoes, spicy and sweet chutneys, curd, and chaat masala.",
+            "price": 10,
+            "tags": ["street food", "vegetarian"]
+        },
+        {
+            "name": "Pav Bhaji",
+            "description": "Mumbai Pav Bhaji consists of a spicy mashed vegetable curry made from potatoes, peas, tomatoes, and spices, served with buttered and toasted bread rolls (pav).",
+            "price": 14,
+            "tags": ["street food", "vegetarian", "spicy"]
+        },
+        {
+            "name": "Bhakhri Pizza",
+            "description": "A fusion dish from Ahmedabad, a crispy Gujarati flatbread (bhakhri) topped with spicy sauces, vegetables, and cheese.",
+            "price": 10,
+            "tags": ["fusion", "vegetarian", "cheesy"]
+        }
+    ],
+    "mansaahari_safar": [
+        {
+            "name": "Butter Chicken",
+            "description": "Aromatic golden chicken pieces swimming in an incredible curry sauce.",
+            "price": 18,
+            "tags": ["main course", "non-vegetarian", "creamy"]
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "description": "Yogurt-marinated chicken, skewered and chargrilled for barbeque flavors, cooked in a rich spiced tomato curry.",
+            "price": 20,
+            "tags": ["main course", "non-vegetarian", "spicy"]
+        },
+        {
+            "name": "Vindaloo Chicken/Lamb/Shrimp",
+            "description": "Delicious, spicy & flavorful Portuguese-Indian dish made by cooking chicken, lamb, or shrimp in a vindaloo spice paste.",
+            "price": { "chicken": 18, "lamb": 22, "shrimp": 22 },
+            "tags": ["main course", "non-vegetarian", "spicy"]
+        },
+        {
+            "name": "Chicken/Goat Kadhai",
+            "description": "Spicy and flavorful dish made with chicken or goat, onions, tomatoes, ginger, garlic, and freshly ground spices.",
+            "price": { "chicken": 18, "goat": 22 },
+            "tags": ["main course", "non-vegetarian", "spicy"]
+        },
+        {
+            "name": "Lamb Chop Masala",
+            "description": "Warming, aromatic, succulent, and flavorful lamb chops coated in a masala paste.",
+            "price": 26,
+            "tags": ["main course", "non-vegetarian", "rich"]
+        }
+    ],
+    "sabzi_mandi_se": [
+        {
+            "name": "Aloo Gobi",
+            "description": "A classic Indian dish made with potatoes and cauliflower, cooked with onions, tomatoes, and spices.",
+            "price": 12,
+            "tags": ["main course", "vegetarian", "traditional"]
+        },
+        {
+            "name": "Amritsari Chole",
+            "description": "Full-flavored preparation of chickpeas with a mix of spicy and tangy flavors.",
+            "price": 12,
+            "tags": ["main course", "vegetarian", "spicy"]
+        },
+        {
+            "name": "Malai Kofta",
+            "description": "Fried balls of potato and paneer in a rich, lightly sweet, creamy mild gravy.",
+            "price": 16,
+            "tags": ["main course", "vegetarian", "rich"]
+        },
+        {
+            "name": "Paneer Manpasand",
+            "description": "Paneer cooked in a tangy and mildly sweet gravy featuring butter, tomatoes, spices, cashew paste, and cream.",
+            "price": 17,
+            "tags": ["main course", "vegetarian", "creamy"]
+        },
+        {
+            "name": "Sarson Da Saag/Palak Paneer/Saag Cheese",
+            "description": "Creamy and rich mustard greens or spinach cooked with spices. Add cheese for extra flavor.",
+            "price": { "sarson_da_saag": 17, "palak_paneer": 20, "saag_cheese": 20 },
+            "tags": ["main course", "vegetarian", "traditional"]
+        },
+        {
+            "name": "Dal Tadka/Dal Makhani",
+            "description": "Yellow lentils tempered with cumin and ghee or black lentils cooked with Indian spices, butter, and cream.",
+            "price": { "dal_tadka": 12, "dal_makhani": 15 },
+            "tags": ["main course", "vegetarian", "traditional"]
+        }
+    ],
+    "tandoor_ke_tukde": [
+        {
+            "name": "Angarey Paneer / Kakori Kebab",
+            "description": "Fresh Indian cottage cheese cubes barbequed in a clay oven OR soft, flavorful vegetarian kebab made from a mix of vegetables, paneer, and aromatic spices.",
+            "price": { "paneer": 18, "kebab": 16 },
+            "tags": ["tandoori", "vegetarian"]
+        },
+        {
+            "name": "Tandoori Shrimp/Lamb/Salmon Tikka",
+            "description": "Shrimp, lamb, or salmon marinated in a spicy tandoori blend and grilled to perfection in a tandoor, served with zesty mint chutney.",
+            "price": { "shrimp": 20, "lamb": 25, "salmon": 20 },
+            "tags": ["tandoori", "non-vegetarian"]
+        },
+        {
+            "name": "Lehsuni Chicken Tikka",
+            "description": "Small chicken pieces marinated in spices and yogurt before being chargrilled on skewers with garlic.",
+            "price": 20,
+            "tags": ["tandoori", "non-vegetarian"]
+        }
+    ],
+    "roti_kulcha_aur_naan": [
+        {
+            "name": "Butter Naan",
+            "description": "Popular Indian flatbread made using refined flour, generously coated with butter.",
+            "price": 5,
+            "tags": ["bread", "vegetarian"]
+        },
+        {
+            "name": "Cheese Naan",
+            "description": "Indian flatbread generously stuffed with cheese.",
+            "price": 5,
+            "tags": ["bread", "vegetarian", "cheesy"]
+        },
+        {
+            "name": "Garlic Naan",
+            "description": "Indian flatbread topped with garlic.",
+            "price": 5,
+            "tags": ["bread", "vegetarian"]
+        },
+        {
+            "name": "Onion Kulcha",
+            "description": "Indian flatbread stuffed with a spiced onion filling.",
+            "price": 4,
+            "tags": ["bread", "vegetarian"]
+        },
+        {
+            "name": "Paneer Kulcha",
+            "description": "Indian flatbread stuffed with a spiced Indian cottage cheese filling.",
+            "price": 6,
+            "tags": ["bread", "vegetarian"]
+        },
+        {
+            "name": "Laccha Paratha",
+            "description": "Crispy flaky layered flatbreads made with whole wheat flour.",
+            "price": 4,
+            "tags": ["bread", "vegetarian", "traditional"]
+        },
+        {
+            "name": "Bhature",
+            "description": "Deep-fried Indian flatbread made with refined flour, typically served with chole.",
+            "price": 6,
+            "tags": ["bread", "vegetarian", "traditional"]
+        },
+        {
+            "name": "Bullet/Peshawari Naan",
+            "description": "Flatbread made with spicy stuffing (bullet) or sweet filling (Peshawari).",
+            "price": 5,
+            "tags": ["bread", "vegetarian"]
+        },
+        {
+            "name": "Roomali Roti",
+            "description": "Unleavened Indian bread, soft and thin, made in traditional Mughlai cuisine.",
+            "price": 6,
+            "tags": ["bread", "vegetarian"]
+        }
+    ],
+    "biryani_ki_mehek": [
+        {
+            "name": "Vegetable Biryani",
+            "description": "Aromatic rice dish made with basmati rice, spices, and mixed vegetables.",
+            "price": 14,
+            "tags": ["main course", "vegetarian", "aromatic"]
+        },
+        {
+            "name": "Paneer Biryani",
+            "description": "Aromatic rice dish made with basmati rice, spices, and paneer.",
+            "price": 18,
+            "tags": ["main course", "vegetarian", "aromatic"]
+        },
+        {
+            "name": "Egg Biryani",
+            "description": "Aromatic rice dish made with basmati rice, spices, and boiled eggs.",
+            "price": 16,
+            "tags": ["main course", "non-vegetarian", "aromatic"]
+        },
+        {
+            "name": "Chicken Biryani",
+            "description": "Aromatic rice dish made with basmati rice, spices, and tender chicken pieces.",
+            "price": 18,
+            "tags": ["main course", "non-vegetarian", "aromatic"]
+        },
+        {
+            "name": "Shrimp Biryani",
+            "description": "Aromatic rice dish made with basmati rice, spices, and shrimp.",
+            "price": 20,
+            "tags": ["main course", "non-vegetarian", "aromatic"]
+        },
+        {
+            "name": "Lamb Biryani",
+            "description": "Aromatic rice dish made with basmati rice, spices, and lamb.",
+            "price": 22,
+            "tags": ["main course", "non-vegetarian", "aromatic"]
+        },
+        {
+            "name": "Goat Biryani",
+            "description": "Aromatic rice dish made with basmati rice, spices, and goat meat.",
+            "price": 20,
+            "tags": ["main course", "non-vegetarian", "aromatic"]
+        }
+    ],
+    "kool_jalpan": [
+        {
+            "name": "Salted/Sweet/Mango Lassi",
+            "description": "Yogurt-based creamy beverage available in sweet, salted, or mango flavor.",
+            "price": 5,
+            "tags": ["beverage", "refreshing"]
+        },
+        {
+            "name": "Masala Soda",
+            "description": "Refreshing Indian summer drink made using a few spices and soda water.",
+            "price": 5,
+            "tags": ["beverage", "refreshing"]
+        },
+        {
+            "name": "Thums Up/Limca",
+            "description": "Popular Indian sodas.",
+            "price": 3,
+            "tags": ["beverage", "carbonated"]
+        }
+    ],
+    "mishtaan": [
+        {
+            "name": "Gulab Jamun",
+            "description": "Soft delicious berry-sized balls made with milk solids, flour, and a leavening agent, soaked in rose-flavored sugar syrup.",
+            "price": 5,
+            "tags": ["dessert", "sweet"]
+        },
+        {
+            "name": "Gajar Halva",
+            "description": "Deliciously rich and creamy carrot pudding topped with crunchy almonds and cashews.",
+            "price": 6,
+            "tags": ["dessert", "sweet"]
+        },
+        {
+            "name": "Moong Dal Halva",
+            "description": "Roasted moong dal simmered in milk and ghee with cardamom, topped with cashews and almonds.",
+            "price": 10,
+            "tags": ["dessert", "sweet"]
+        },
+        {
+            "name": "Rasmalai",
+            "description": "A classic Indian dessert consisting of juicy cheese discs served with thickened milk.",
+            "price": 6,
+            "tags": ["dessert", "sweet"]
+        }
+    ],
+    "de_thali": [
+        {
+            "name": "Punjabi Thali (Veg)",
+            "description": "Unlimited thali with one appetizer, two sabzis, one lentil (Dal-Tadka), naan/roti, rice, one sweet, salad, papad, chutneys, pickles, and sweet/salted lassi. Available for dinner (except Tuesdays).",
+            "price": 25,
+            "tags": ["thali", "vegetarian"]
+        },
+        {
+            "name": "Punjabi Thali (Non-Veg)",
+            "description": "Unlimited thali with one appetizer, one goat curry, one chicken curry, one veg subji, Dal-Tadka, naan/roti, rice, one sweet, salad, papad, chutneys, pickles, and sweet/salted lassi. Available for dinner (except Tuesdays).",
+            "price": 28,
+            "tags": ["thali", "non-vegetarian"]
+        }, 
+        {
+            "name": "Rajasthani Thali",
+            "description": "Unlimited thali with one appetizer, two sabzis, Punchmel Dal, bati, paratha, one sweet, papad, chutneys, pickles, salad, and masala chhas. Available on Thursdays for dinner.",
+            "price": 25,
+            "tags": ["thali", "vegetarian"]
+        },
+        {
+            "name": "Kathiyawadi Ras Thaal",
+            "description": "Unlimited thali with one appetizer, three sabzis, one kathol, khati meethi dal/kadhi, puri, rotli, rotlo, rice/khichdi, one sweet, papad, chutneys, pickles, kachumber/sambharo, and masala chhas. Available Friday-Sunday for dinner.",
+            "price": 25,
+            "tags": ["thali", "vegetarian"]
+        }
+    ],
+    "weekday_lunch": [
+        {
+            "name": "Vegetarian Entree",
+            "description": "Choice of Saag Aloo, Paneer Makhanwala, Amritsari Chole, or Baingan Bharta.",
+            "price": 11,
+            "tags": ["weekday lunch", "vegetarian"]
+        },
+        {
+            "name": "Non-Vegetarian Entree",
+            "description": "Choice of Chicken Kadhai, Chicken Dhania, Butter Chicken, Chicken Tikka Masala, or Butter Korma",
+            "price": { "regular": 12, "goat": 14 },
+            "tags": ["weekday lunch", "non-vegetarian"]
+        },
+        {
+            "name": "Vegetarian Specials",
+            "description": "Choice of Falafel Roll, Chur Chur Naan with Chole, Paratha (Gobi/Aloo/Paneer), Pav Bhaji, or Veg. Biryani.",
+            "price": 13,
+            "tags": ["weekday lunch", "vegetarian"]
+        },
+        {
+            "name": "Non-Vegetarian Specials",
+            "description": "Choice of Bhurji Pav, Keema Pav, Chicken Roll, Tangdi Kebab, Chicken Biryani, or Anda Biryani.",
+            "price": 13,
+            "tags": ["weekday lunch", "non-vegetarian"]
+        }
+    ]
+}
+
+
+ 
